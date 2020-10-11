@@ -3,7 +3,7 @@
 
 ## Windows
 
-* download ![obs-studio](https://obsproject.com/)
+* download ![obs-studio 32-bit version](https://obsproject.com/)
 * download ![OBS-VirtualCam2.0.4-Installer.exe](https://github.com/CatxFish/obs-virtual-cam/releases/download/2.0.4/OBS-VirtualCam2.0.4-Installer.exe)
 
 ## Linux
